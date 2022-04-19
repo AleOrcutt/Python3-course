@@ -1,3 +1,3 @@
-# Python3-course
+# Python3
 Python Programming Code Snippets
-Dataquest - Dataquest-Data Engineering Path
+Dataquest-Data Engineering Path
